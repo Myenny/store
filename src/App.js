@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <main>
         <h1>iShop</h1>
-        <div class="tabs is-centered is-boxed is-medium">
+        <div className="tabs is-centered is-boxed is-medium">
           <ul>
             <li>
               <a>Home</a>
@@ -24,8 +24,6 @@ class App extends Component {
           </ul>
         </div>
         <ItemList />
-        <h1>Chargers</h1>
-        <h2 />
       </main>
     )
   }
