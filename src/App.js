@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import './App.css'
 import ItemList from './ItemList'
+import Item from './Item'
 
 class App extends Component {
   render() {
@@ -24,6 +25,7 @@ class App extends Component {
           </ul>
         </div>
         <ItemList />
+        <Item />
       </main>
     )
   }

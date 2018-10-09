@@ -3,8 +3,8 @@
     "id": 1,
     "Product": "iPhone 8",
     "Category": "Batteries",
-    "Picture": "200_.jpg",
-    "description": "Nam tristique tortor eu pede.",
+    "Picture": "https://images-na.ssl-images-amazon.com/images/I/51GimrbsYAL._SX522_.jpg",
+    "description": "Extended battery for the iPhone 8.",
     "rating": 4,
     "Price": "$11.59"
   },

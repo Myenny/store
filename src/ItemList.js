@@ -7,19 +7,21 @@ class ItemList extends Component {
     console.log(Data)
     return (
       <div className="card">
-        <div className="card-image">
-          <img src="https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg" />
-        </div>
         {Data.map((item, i) => {
           return (
             <div className="card-content" key={i}>
               <div className="media">
-                <img src={item.Picture} alt={item.Product} />
-                <p>{item.Product}</p>
-                <p>{item.Category}</p>
-                <p>{item.Price}</p>
-                <p>{item.description}</p>
-                <p>{item.rating}</p>
+                <div className="media-content">
+                  <img src={item.Picture} alt={item.Product} />
+                  <p className="title is-4">{item.Product}</p>
+                  <p className="subtitle is-6">{item.Category}</p>
+                  <p>
+                    {item.Price}
+                    <button>Buy</button>
+                  </p>
+                  <p>{item.description}</p>
+                  <p>Rating: {item.rating} Stars</p>
+                </div>
               </div>
             </div>
           )
