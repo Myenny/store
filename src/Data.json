@@ -1,137 +1,29 @@
 [
   {
     "id": 1,
-    "Product": "iPhone 8",
-    "Category": "Batteries",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/51GimrbsYAL._SX522_.jpg",
-    "description": "Extended battery for the iPhone 8.",
+    "Product": "Best Seller",
+    "Category": "Protein",
+    "Picture": "https://www.gnc.com/dw/image/v2/BBLB_PRD/on/demandware.static/-/Sites-master-catalog-gnc/default/dw33b26f87/hi-res/350280_1.jpg?sw=350&sh=350&sm=fit",
+    "description": "OPTIMUM NUTRITION GOLD STANDARD 100% WHEY™",
     "rating": 4,
-    "Price": "$11.59"
+    "Price": "$55.59"
   },
   {
     "id": 2,
-    "Product": "Galaxy Note 9",
-    "Category": "Accessory Kits",
-    "Picture": "200_.jpg",
-    "description": "Duis bibendum.",
+    "Product": "Best Seller",
+    "Category": "Prework-out",
+    "Picture": "https://cdn.shopify.com/s/files/1/1876/4703/products/001_View120000.png?v=1537460355",
+    "description": "Pre-workout cocktail designed to amplify energy, focus, alertness, strength, stamina, and pumps while giving the athlete essential nutrients to optimize anaerobic and aerobic capacity.",
     "rating": 1,
-    "Price": "$12.46"
-  },
-  {
-    "id": 3,
-    "Product": "iPhone 7",
-    "Category": "Batteries",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-    "rating": 2,
-    "Price": "$11.29"
-  },
-  {
-    "id": 4,
-    "Product": "iPhone 7",
-    "Category": "Car Accessories",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "Nam tristique tortor eu pede.",
-    "rating": 5,
-    "Price": "$14.69"
-  },
-  {
-    "id": 5,
-    "Product": "LG G7 ThinQ",
-    "Category": "Batteries",
-    "Picture": "200_.jpg",
-    "description": "Maecenas tincidunt lacus at velit.",
-    "rating": 5,
-    "Price": "$13.41"
-  },
-  {
-    "id": 6,
-    "Product": "iPhone 8",
-    "Category": "Car Accessories",
-    "Picture": "200_.jpg",
-    "description": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
-    "rating": 5,
-    "Price": "$10.76"
-  },
-  {
-    "id": 7,
-    "Product": "LG G7 ThinQ",
-    "Category": "Batteries",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-    "rating": 4,
-    "Price": "$14.38"
-  },
-  {
-    "id": 8,
-    "Product": "iPhone XS",
-    "Category": "Batteries",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "Pellentesque at nulla.",
-    "rating": 4,
-    "Price": "$11.05"
-  },
-  {
-    "id": 9,
-    "Product": "iPhone XS Max",
-    "Category": "Car Accessories",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "Quisque id justo sit amet sapien dignissim vestibulum.",
-    "rating": 4,
-    "Price": "$11.08"
-  },
-  {
-    "id": 10,
-    "Product": "Galaxy Note 9",
-    "Category": "Batteries",
-    "Picture": "200_.jpg",
-    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
-    "rating": 5,
-    "Price": "$12.57"
-  },
-  {
-    "id": 11,
-    "Product": "LG G7 ThinQ",
-    "Category": "Changers",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg,200_.jpg",
-    "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-    "rating": 4,
-    "Price": "$14.26"
-  },
-  {
-    "id": 12,
-    "Product": "Galaxy S9",
-    "Category": "Accessory Kits",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "In sagittis dui vel nisl.",
-    "rating": 4,
-    "Price": "$11.67"
-  },
-  {
-    "id": 13,
-    "Product": "iPhone XS",
-    "Category": "Batteries",
-    "Picture": "200_.jpg",
-    "description": "Nullam varius. Nulla facilisi.",
-    "rating": 5,
-    "Price": "$12.77"
+    "Price": "$59.50"
   },
   {
     "id": 14,
-    "Product": "iPhone 8",
-    "Category": "Accessory Kits",
-    "Picture": "https://images-na.ssl-images-amazon.com/images/I/61-npvcL4-L._AC_UL200_SR200,200_.jpg",
-    "description": "Integer ac neque.",
+    "Product": "Featured",
+    "Category": "Prework-out",
+    "Picture": "https://cdn.shopify.com/s/files/1/1876/4703/products/charged_af_ks_front_grande.jpg?v=1529340752",
+    "description": "High-intensity pre-workout formulation designed to amplify energy, alertness, strength, stamina and pumps while giving the athlete essential nutrients to optimize anaerobic and aerobic capacity.",
     "rating": 3,
-    "Price": "$13.50"
-  },
-  {
-    "id": 15,
-    "Product": "LG G7 ThinQ",
-    "Category": "Batteries",
-    "Picture": "200_.jpg",
-    "description": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-    "rating": 3,
-    "Price": "$14.73"
+    "Price": "$59.50"
   }
 ]
